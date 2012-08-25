@@ -24,6 +24,9 @@ public class DisplayMessageActivity extends Activity {
         
         // Set the text view as the activity layout
         setContentView(textView);
+        
+        // A bunch of extra comments
+        // Checking for the git commits
     }
 
    

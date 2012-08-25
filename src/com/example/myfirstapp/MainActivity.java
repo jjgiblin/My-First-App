@@ -31,4 +31,6 @@ public class MainActivity extends Activity {
     	intent.putExtra(EXTRA_MESSAGE, message);
     	startActivity(intent);
     }
+    
+    // Still more comments for commit checking.
 }
