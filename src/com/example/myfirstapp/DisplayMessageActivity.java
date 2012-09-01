@@ -29,6 +29,8 @@ public class DisplayMessageActivity extends Activity {
         // Checking for the git commits
         
         //even more git comments for the import onto my dropbox repos
+        
+        //yet still more comments from my new PC
     }
 
    
